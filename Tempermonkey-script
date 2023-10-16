@@ -56,3 +56,6 @@ if (!popup) return false;
 const popupContent = popup.querySelector("div#content");
 return popupContent && popupContent.textContent.includes("Adblocker");
 }
+
+
+Original post: https://gist.github.com/cutiepoka/a9347c68bfcf29060926a8af46bb1701#file-gistfile1-txt
